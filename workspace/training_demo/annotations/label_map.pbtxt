@@ -1,0 +1,33 @@
+item {
+    id: 1
+    name: 'fly'
+}
+item {
+    id: 2
+    name: 'mosquito'
+}
+
+item {
+    id: 3
+    name: 'house fly'
+}
+item {
+    id: 4
+    name: 'blow fly'
+}
+item {
+    id: 5
+    name: 'fruit fly'
+}
+item {
+    id: 6
+    name: 'phorid fly'
+}
+item {
+    id: 7
+    name: 'beetle'
+}
+item {
+    id: 8
+    name: 'tobacco beetles'
+}

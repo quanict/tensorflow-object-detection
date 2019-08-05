@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0045.jpg</filename>
+	<path>/mnt/data-sda5/ml/Contents-AI/source/tensorflow/object-detection/workspace/training_demo/images/0045.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cockroach</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>203</xmin>
+			<ymin>107</ymin>
+			<xmax>354</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>
